@@ -19,7 +19,7 @@ const ThemeSwitch = () => {
           className={
             "p-1 rounded focus:outline-none border-gray-500 border"
           }>
-          <MoonIcon className="w-5 h-5" />
+          <MoonIcon className="w-4 h-4" />
         </button>
       }
       {
@@ -30,7 +30,7 @@ const ThemeSwitch = () => {
           className={
             "p-1 rounded focus:outline-none border-gray-200 border"
           }>
-          <SunIcon className="w-5 h-5" />
+          <SunIcon className="w-4 h-4" />
         </button>
       }
     </div>

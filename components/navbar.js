@@ -72,8 +72,8 @@ export default function Navbar(props) {
                         sizes="(max-width: 640px) 100vw, 200px"
                       />
                     ) : (
-                      <span className="block text-center">
-                        Stablo
+                      <span className="block text-center text-xl">
+                        MD Blog
                       </span>
                     )}
                   </Link>
@@ -86,8 +86,8 @@ export default function Navbar(props) {
                         sizes="(max-width: 640px) 100vw, 200px"
                       />
                     ) : (
-                      <span className="block text-center">
-                        Stablo
+                      <span className="block text-center text-xl">
+                        MD Blog
                       </span>
                     )}
                   </Link>
